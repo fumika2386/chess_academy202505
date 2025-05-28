@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "chees academy",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chees academy"
+	}
+}
